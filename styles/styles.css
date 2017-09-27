@@ -6,3 +6,8 @@
   height: 600px;
   margin-top: 20px;
 }
+body{
+  color: #fff;
+  background-image: url('https://media.giphy.com/media/loIcistWoilEc/giphy.gif');
+  background-size: cover;
+}
